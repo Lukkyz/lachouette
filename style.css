@@ -27,6 +27,17 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.quote {
+	font-size: 1.2em;
+}
+
+.presentation {
+	font-size: 1.4em;
+}	
+
+.intro-portfolio {
+	font-size: 1.5em;
+}
 .bloc {
     width: 100%;
     clear: both;
@@ -677,7 +688,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
