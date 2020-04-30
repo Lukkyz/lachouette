@@ -28,16 +28,17 @@ a:hover {
 }
 
 .quote {
-	font-size: 1.2em;
+    font-size: 1.2em;
 }
 
 .presentation {
-	font-size: 1.4em;
-}	
+    font-size: 1.4em;
+}   
 
 .intro-portfolio {
-	font-size: 1.5em;
+    font-size: 1.5em;
 }
+
 .bloc {
     width: 100%;
     clear: both;
